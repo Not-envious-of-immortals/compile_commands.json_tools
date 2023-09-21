@@ -1,0 +1,2 @@
+l:低版本linux上面正常使用
+h:高版本linux上面正常使用（需要手动删掉-march和-mtune）
